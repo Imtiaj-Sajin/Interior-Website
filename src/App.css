@@ -1,17 +1,32 @@
-.App{
+.App {
     position: relative;
-    overflow-x: clip;
-
-}
-.App>:nth-child(1){
+    overflow: hidden;
+  }
+  
+  .App > :nth-child(1) {
     background: var(--orange-gradient);
     position: relative;
-}
-.white-gradient{
-    position:absolute;
+  }
+  
+  .white-gradient {
+    position: absolute;
     width: 25rem;
-    height:25rem;
-    background:rgba(255,255,255,0.622);
-    filter:blur(80px);
-
-}
+    height: 25rem;
+    /* border-radius: 100px; */
+    background: rgba(255, 255, 255, 0.552);
+    filter: blur(80px);
+    animation: animateGradient 8s linear infinite;
+  }
+  
+  @keyframes animateGradient {
+    0% {
+      top: 0%;
+    }
+    40% {
+      top: 40%;
+    }
+    100% {
+      top: 0%;
+    }
+  }
+  

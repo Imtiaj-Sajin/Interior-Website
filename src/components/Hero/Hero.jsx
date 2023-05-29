@@ -18,7 +18,7 @@ const Hero = () => {
 
                 <div className="flexColStart hero-des">
                     <span>Creating Inspiring Interiors for Your Home or Office</span>
-                    <span>Turning Your Dreams into Reality.</span>
+                    <span>Turning Your Dreams into Reality</span>
                 </div>
                 
                 <div className="flexCenter search-bar">
@@ -29,7 +29,7 @@ const Hero = () => {
                 <div className="flexCenter stats">
                     <div className="flexColCenter stat">
                         <span>
-                            <CountUp start={3600} end={8000} duration={20000}/>
+                            <CountUp start={13619} end={17000} duration={20000}/>
                             <span>+</span>
                         </span>
                         <span className='secondaryText'>

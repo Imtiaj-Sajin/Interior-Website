@@ -1,38 +1,50 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Aliva Jardin",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "detail": "Gulshan City Street, Chatra. Pulo Hadrid, Jakarta Timur, Dhaka",
+    "image": "./i1.jpg"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Aesvery Garden City",
+    "price": "66,353",
+    "detail": "Suchmahal Street XVII No.215, Sangakaraa, Sawangan, Depok, Jawa Barat",
+    "image": "./i11.jpg"
+  },
+  {
+    "name": "South Palace",
+    "price": "35,853",
+    "detail": "Ruko Puri Indirah Residence Block A7, Lingkar Street, Ciracas, Bangladesh",
+    "image": "./i12.jpg"
+  },
+  {
+    "name": "Lake Priva",
+    "price": "47,043",
+    "detail": "512/B City Street, Bashundhara, Dhaka-Uttar,Dhaka, Bangladesh",
+    "image": "./i6.jpg"
+  },
+  {
+    "name": "Peace City",
     "price": "66,353",
     "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "image": "./i3.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Charulota Lake",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "detail": "512/B City Street, Bashundhara, Dhaka-Uttar,Dhaka, Bangladesh",
+    "image": "./i9.jpg"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
-  },
-  {
-    "name": "Asatti Garden City",
+    "name": "Aliva City",
     "price": "66,353",
     "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "image": "./i7.jpg"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": " Jardin Lake",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "detail": "512/B City Street, Bashundhara, Dhaka-Uttar,Dhaka, Bangladesh",
+    "image": "./i4.jpg"
   }
 ]
