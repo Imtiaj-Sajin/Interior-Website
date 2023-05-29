@@ -6,12 +6,12 @@ const Header = () => {
             <div className="flexCenter paddings innerwidth h-container">
                 <img src="./klogo.png" alt="logo" width={100} />
                 <div className="flexCenter h-menu">
+                    <a href="">Products</a>
                     <a href="">Plans</a>
                     <a href="">Our Values</a>
                     <a href="">Contact Us</a>
-                    <a href="">Get Started</a>
                     <button className='button'>
-                        <a href="">Contact</a>
+                        <a href="">Get a Quote</a>
                     </button>
                 </div>
             </div>

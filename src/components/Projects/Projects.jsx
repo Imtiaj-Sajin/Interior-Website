@@ -10,7 +10,7 @@ const Projects = () => {
             <div className='paddings innerWidth r-container'>
                 <div className="r-head flexColStart">
                     <span className='orangeText'>Best Choices</span>
-                    <span className='primaryText'>Premium Works</span>
+                    <span className='primaryText'>Recent Works</span>
                 </div>
 
                 <Swiper {...sliderSettings} className='kakashi'>
