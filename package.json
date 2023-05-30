@@ -1,12 +1,14 @@
-{
+{ "homepage": "https://imtiaj-sajin.github.io/interior-website",
   "name": "realestate",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^10.8.5",
@@ -16,6 +18,8 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0",
     "react-outside-click-handler": "^1.3.0",
+    "react-router": "^6.11.2",
+    "react-router-dom": "^6.11.2",
     "swiper": "^9.1.1"
   },
   "devDependencies": {

@@ -48,3 +48,17 @@
     color:white;
     scale:.8;
 }
+
+.c-right .image-container {
+    border-radius: 15rem 15rem 5rem 5rem;
+    border: 8px solid rgb(232, 232, 232, 0.93);
+    transform-style: preserve-3d;
+  }
+  .c-right .image-container>img {
+    transition: transform 0.3s ease-out;
+  }
+  
+  .c-right .image-container>img:hover {
+    transform: scale(1.1);
+  }
+   

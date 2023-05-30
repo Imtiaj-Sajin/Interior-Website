@@ -1,6 +1,15 @@
 .v-container .image-container{
+    border-radius: 0rem 15rem 5rem 5rem;
     border:8px solid rgb(232 232 232 / 93%);
 }
+.v-container .image-container>img {
+    transition: transform 0.3s ease-out;
+  }
+  
+.v-container .image-container>img:hover {
+    transform: scale(1.1);
+}
+
 .v-container>div{
     flex: 1;
 }

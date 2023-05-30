@@ -16,18 +16,18 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem;
+    gap: 4rem;
     margin-bottom: 1.5rem;
   }
   
   .card {
-    width: 240px;
-    height: 320px;
+    width: 280px;
+    height: 350px;
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.212);
     background: var(--orange-gradient);
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     border-radius: 20px;
     position: relative;
@@ -90,6 +90,6 @@
   }
   
   .card:hover .card-image {
-    transform: translateY(-50px);
+    transform: translateY(-35px);
   }
   
