@@ -16,7 +16,7 @@ const Footer = () => {
             </div>
             <div className="footer-About-item">
               <AiOutlineMail className="footer-About-icon" />
-              <span>info@buenavistainteriors.es/span>
+              <span>info@buenavistainteriors.es</span>
             </div>
             <div className="footer-About-item">
               <AiOutlineHome className="footer-About-icon" />
