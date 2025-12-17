@@ -5,9 +5,9 @@ import { BsFillChatDotsFill } from 'react-icons/bs'
 import { HiChatBubbleBottomCenter } from 'react-icons/hi2'
 
 const PHONE = '+34925178639'
-const EMAIL = 'info@buenavistainteriors.es'
+const EMAIL = 'info@vistainteriors.es'
 const WHATSAPP_LINK = 'https://wa.me/34925178639'
-const MESSENGER_LINK = 'https://m.me/buenavistainteriors'
+const MESSENGER_LINK = 'https://m.me/vistainteriors'
 
 const Contact = () => {
   return (
