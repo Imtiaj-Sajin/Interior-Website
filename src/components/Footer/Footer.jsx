@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-inner">
-        <div className="footer-section">
+        <div className="footer-section about">
           <h3 className="footer-heading">About Us</h3>
           <div className="footer-About">
             <div className="footer-About-item">
@@ -23,11 +23,11 @@ const Footer = () => {
               <span>
                 Carretera Villacañas, S/N, 45840 La Puebla de Almoradiel, Spain
               </span>
-
             </div>
           </div>
         </div>
-        <div className="footer-section">
+
+        <div className="footer-section social">
           <h3 className="footer-heading">Follow Us</h3>
           <div className="footer-social">
             <a href="https://www.facebook.com/vista_interiors" className="footer-social-link">
@@ -41,6 +41,10 @@ const Footer = () => {
             </a>
           </div>
         </div>
+      </div>
+
+      <div className="footer-bottom">
+        <span>© {new Date().getFullYear()} Vista Interiors. All Rights Reserved.</span>
       </div>
     </footer>
   );
