@@ -20,7 +20,7 @@ const Footer = () => {
             </div>
             <div className="footer-About-item">
               <AiOutlineHome className="footer-About-icon" />
-              <span>Carretera Villacañas, S/N, 45840 La Puebla de Almoradiel, Toledo, Spain</span>
+              <span>Carretera Villacañas, S/N, 45840 La Puebla de Almoradiel </br>Toledo, Spain</span>
             </div>
           </div>
         </div>
