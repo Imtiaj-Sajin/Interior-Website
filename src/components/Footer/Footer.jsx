@@ -21,8 +21,7 @@ const Footer = () => {
             <div className="footer-About-item">
               <AiOutlineHome className="footer-About-icon" />
               <span>
-                Carretera Villacañas, S/N, 45840 La Puebla de Almoradiel <br />
-                Toledo, Spain
+                Carretera Villacañas, S/N, 45840 La Puebla de Almoradiel, Spain
               </span>
 
             </div>
