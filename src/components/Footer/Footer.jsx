@@ -30,13 +30,13 @@ const Footer = () => {
         <div className="footer-section">
           <h3 className="footer-heading">Follow Us</h3>
           <div className="footer-social">
-            <a href="#" className="footer-social-link">
+            <a href="https://www.facebook.com/vista_interiors" className="footer-social-link">
               <FaFacebookF className="footer-social-icon" />
             </a>
-            <a href="#" className="footer-social-link">
+            <a href="https://twitter.com/vistainterior" className="footer-social-link">
               <FaTwitter className="footer-social-icon" />
             </a>
-            <a href="#" className="footer-social-link">
+            <a href="https://www.instagram.com/vistainteriors" className="footer-social-link">
               <FaInstagram className="footer-social-icon" />
             </a>
           </div>
