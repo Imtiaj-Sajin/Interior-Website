@@ -1,50 +1,50 @@
 [
   {
-    "name": "Aliva Jardin",
+    "name": "Casa Olivo",
     "price": "47,043",
-    "detail": "Gulshan City Street, Chatra. Pulo Hadrid, Jakarta Timur, Dhaka",
+    "detail": "Calle Nueva, Úbeda la Vieja, Jaén, Andalusia, Spain",
     "image": "./i1.jpg"
   },
   {
-    "name": "Aesvery Garden City",
+    "name": "Villa Serena",
     "price": "66,353",
-    "detail": "Suchmahal Street XVII No.215, Sangakaraa, Sawangan, Depok, Jawa Barat",
+    "detail": "Calle Mayor, Sant Fruitós de Bages, Barcelona, Catalonia, Spain",
     "image": "./i11.jpg"
   },
   {
-    "name": "South Palace",
+    "name": "Patio Azul",
     "price": "35,853",
-    "detail": "Ruko Puri Indirah Residence Block A7, Lingkar Street, Ciracas, Bangladesh",
+    "detail": "Calle Real, Medina de Rioseco, Valladolid, Castile and León, Spain",
     "image": "./i12.jpg"
   },
   {
-    "name": "Lake Priva",
+    "name": "Monte Claro",
     "price": "47,043",
-    "detail": "512/B City Street, Bashundhara, Dhaka-Uttar,Dhaka, Bangladesh",
+    "detail": "Avenida del Molino, Almodóvar del Río, Córdoba, Andalusia, Spain",
     "image": "./i6.jpg"
   },
   {
-    "name": "Peace City",
+    "name": "Casa Brisa",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Calle del Mar, L'Ametlla de Mar, Tarragona, Catalonia, Spain",
     "image": "./i3.jpg"
   },
   {
-    "name": "Charulota Lake",
+    "name": "Ribera Sol",
     "price": "35,853",
-    "detail": "512/B City Street, Bashundhara, Dhaka-Uttar,Dhaka, Bangladesh",
+    "detail": "Calle del Río, San Esteban de Gormaz, Soria, Castile and León, Spain",
     "image": "./i9.jpg"
   },
   {
-    "name": "Aliva City",
+    "name": "El Encinar",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Calle Virgen Blanca, Quintanar de la Orden, Toledo, Spain",
     "image": "./i7.jpg"
   },
   {
-    "name": " Jardin Lake",
+    "name": "Casa Alba",
     "price": "35,853",
-    "detail": "512/B City Street, Bashundhara, Dhaka-Uttar,Dhaka, Bangladesh",
+    "detail": "Calle del Sol, Vilafamés, Castellón, Valencian Community, Spain",
     "image": "./i4.jpg"
   }
 ]
