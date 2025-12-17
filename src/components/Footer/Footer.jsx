@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="footer-About">
             <div className="footer-About-item">
               <AiOutlinePhone className="footer-About-icon" />
-              <span>123-456-7890</span>
+              <span>+34 925 178 440</span>
             </div>
             <div className="footer-About-item">
               <AiOutlineMail className="footer-About-icon" />
