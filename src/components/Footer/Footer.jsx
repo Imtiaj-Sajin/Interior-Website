@@ -12,15 +12,15 @@ const Footer = () => {
           <div className="footer-About">
             <div className="footer-About-item">
               <AiOutlinePhone className="footer-About-icon" />
-              <span>+34 925 178 440</span>
+              <span>+34 925 178 639</span>
             </div>
             <div className="footer-About-item">
               <AiOutlineMail className="footer-About-icon" />
-              <span>abc@xyz.com</span>
+              <span>info@buenavistainteriors.es/span>
             </div>
             <div className="footer-About-item">
               <AiOutlineHome className="footer-About-icon" />
-              <span>123 Street, City, Country</span>
+              <span>Carretera Villacañas, S/N, 45840 La Puebla de Almoradiel, Toledo, Spain</span>
             </div>
           </div>
         </div>
